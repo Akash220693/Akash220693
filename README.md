@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Akash Gupta
 - 👀 I’m interested in progamming and developing
+-  I have learnt python, C, C++ and HTML5
 - 🌱 I’m currently learning .js and AWS SysOps
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me at akkash.gupta27@gmail.com
